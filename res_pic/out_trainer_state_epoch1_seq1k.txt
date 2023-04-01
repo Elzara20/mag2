@@ -1,0 +1,1 @@
+trainer.state.log_history =  [{'train_runtime': 2915.9299, 'train_samples_per_second': 0.823, 'train_steps_per_second': 0.103, 'total_flos': 57673045891584.0, 'train_loss': 0.8653427124023437, 'epoch': 3.0, 'step': 300}]
